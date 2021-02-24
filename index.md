@@ -22,7 +22,7 @@ Listado de proyectos pendientes:
 
 
 [Enlace en línea](https://www.proenotec.com)
-[
+[Enlace fuera de linea](referencias.md)
 
 `<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>`
 
