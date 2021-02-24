@@ -8,7 +8,7 @@
 
 Listado de proyectos pendientes:
 
-1. Cambio de extrusor y cabezal impresora 3D
+1. Cambio de extrusor y cabezal impresora 3D.
 2. Instalación de GPS en el coche.
 3. Configurar NODE-RED para recibir ubicación del GPS del coche.
 4. Instalación de GPS en el Kayak.
