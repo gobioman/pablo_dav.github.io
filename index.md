@@ -27,3 +27,5 @@ Listado de proyectos pendientes:
 `<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>`
 
 >Es mejor estar callado y parecer tonto, que abrir la boca y despejar las dudas. - Groucho Marx
+
+![Fry](foto.jpeg)
